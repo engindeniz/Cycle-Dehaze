@@ -1,0 +1,78 @@
+PuTTY X11 proxy: unable to connect to forwarded X server: Network error: Connection refused
+[?1h=
+                             < M A T L A B (R) >
+                   Copyright 1984-2017 The MathWorks, Inc.
+                   R2017a (9.2.0.538062) 64-bit (glnxa64)
+                              February 23, 2017
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+[?1l>results/outdoor/temp/41.png
+2018-03-24 21:02:00.499113: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+2018-03-24 21:02:00.504910: E tensorflow/stream_executor/cuda/cuda_driver.cc:406] failed call to cuInit: CUDA_ERROR_NO_DEVICE
+2018-03-24 21:02:00.504941: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:158] retrieving CUDA diagnostic information for host: Titan2x
+2018-03-24 21:02:00.504948: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:165] hostname: Titan2x
+2018-03-24 21:02:00.504969: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:189] libcuda reported version is: 384.111.0
+2018-03-24 21:02:00.504984: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:369] driver version file contents: """NVRM version: NVIDIA UNIX x86_64 Kernel Module  384.111  Tue Dec 19 23:51:45 PST 2017
+GCC version:  gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.9) 
+"""
+2018-03-24 21:02:00.504996: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:193] kernel reported version is: 384.111.0
+2018-03-24 21:02:00.505002: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:300] kernel version seems to match DSO: 384.111.0
+results/outdoor/temp/42.png
+2018-03-24 21:02:02.550708: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+2018-03-24 21:02:02.556467: E tensorflow/stream_executor/cuda/cuda_driver.cc:406] failed call to cuInit: CUDA_ERROR_NO_DEVICE
+2018-03-24 21:02:02.556500: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:158] retrieving CUDA diagnostic information for host: Titan2x
+2018-03-24 21:02:02.556507: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:165] hostname: Titan2x
+2018-03-24 21:02:02.556529: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:189] libcuda reported version is: 384.111.0
+2018-03-24 21:02:02.556544: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:369] driver version file contents: """NVRM version: NVIDIA UNIX x86_64 Kernel Module  384.111  Tue Dec 19 23:51:45 PST 2017
+GCC version:  gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.9) 
+"""
+2018-03-24 21:02:02.556556: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:193] kernel reported version is: 384.111.0
+2018-03-24 21:02:02.556561: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:300] kernel version seems to match DSO: 384.111.0
+results/outdoor/temp/43.png
+2018-03-24 21:02:04.579627: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+2018-03-24 21:02:04.585511: E tensorflow/stream_executor/cuda/cuda_driver.cc:406] failed call to cuInit: CUDA_ERROR_NO_DEVICE
+2018-03-24 21:02:04.585542: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:158] retrieving CUDA diagnostic information for host: Titan2x
+2018-03-24 21:02:04.585550: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:165] hostname: Titan2x
+2018-03-24 21:02:04.585573: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:189] libcuda reported version is: 384.111.0
+2018-03-24 21:02:04.585588: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:369] driver version file contents: """NVRM version: NVIDIA UNIX x86_64 Kernel Module  384.111  Tue Dec 19 23:51:45 PST 2017
+GCC version:  gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.9) 
+"""
+2018-03-24 21:02:04.585601: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:193] kernel reported version is: 384.111.0
+2018-03-24 21:02:04.585607: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:300] kernel version seems to match DSO: 384.111.0
+results/outdoor/temp/44.png
+2018-03-24 21:02:06.650154: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+2018-03-24 21:02:06.655814: E tensorflow/stream_executor/cuda/cuda_driver.cc:406] failed call to cuInit: CUDA_ERROR_NO_DEVICE
+2018-03-24 21:02:06.655846: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:158] retrieving CUDA diagnostic information for host: Titan2x
+2018-03-24 21:02:06.655853: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:165] hostname: Titan2x
+2018-03-24 21:02:06.655874: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:189] libcuda reported version is: 384.111.0
+2018-03-24 21:02:06.655888: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:369] driver version file contents: """NVRM version: NVIDIA UNIX x86_64 Kernel Module  384.111  Tue Dec 19 23:51:45 PST 2017
+GCC version:  gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.9) 
+"""
+2018-03-24 21:02:06.655900: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:193] kernel reported version is: 384.111.0
+2018-03-24 21:02:06.655905: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:300] kernel version seems to match DSO: 384.111.0
+results/outdoor/temp/45.png
+2018-03-24 21:02:08.717825: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+2018-03-24 21:02:08.723654: E tensorflow/stream_executor/cuda/cuda_driver.cc:406] failed call to cuInit: CUDA_ERROR_NO_DEVICE
+2018-03-24 21:02:08.723688: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:158] retrieving CUDA diagnostic information for host: Titan2x
+2018-03-24 21:02:08.723694: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:165] hostname: Titan2x
+2018-03-24 21:02:08.723715: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:189] libcuda reported version is: 384.111.0
+2018-03-24 21:02:08.723731: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:369] driver version file contents: """NVRM version: NVIDIA UNIX x86_64 Kernel Module  384.111  Tue Dec 19 23:51:45 PST 2017
+GCC version:  gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.9) 
+"""
+2018-03-24 21:02:08.723742: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:193] kernel reported version is: 384.111.0
+2018-03-24 21:02:08.723748: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:300] kernel version seems to match DSO: 384.111.0
+PuTTY X11 proxy: unable to connect to forwarded X server: Network error: Connection refused
+[?1h=
+                             < M A T L A B (R) >
+                   Copyright 1984-2017 The MathWorks, Inc.
+                   R2017a (9.2.0.538062) 64-bit (glnxa64)
+                              February 23, 2017
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+[?1l>

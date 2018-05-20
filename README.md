@@ -1,23 +1,31 @@
-# Cycle-Dehaze
+# Cycle-Dehaze: Enhanced CycleGAN for Single Image Dehazing
 
-This reposotory is a demo for <a href="http://www.vision.ee.ethz.ch/ntire18/" target="_blank">CVPR 2018 Workshop</a>.
+This reposotory is our project for <a href="http://www.vision.ee.ethz.ch/ntire18/" target="_blank">NTIRE 2018 Challenge on Image Dehazing</a>. 
 
-The code is based on <a href="https://github.com/vanhuyz/CycleGAN-TensorFlow" target="_blank">CycleGAN-TensorFlow</a> implementation.
+<a href="https://arxiv.org/abs/1805.05308" target="_blank">Our paper</a> will be published in CVPR 2018 Workshop<a href="http://www.vision.ee.ethz.ch/ntire18/" target="_blank">(3rd NTIRE)</a>. Please cite our paper, if it is helpful for your research.
 
-# Model Architecture
+```sh
+@inproceedings{engin2018cycle,
+  title={Cycle-Dehaze: Enhanced CycleGAN for Single Image Dehazing},
+  author={Engin, Deniz and Gen{\c{c}}, An{\i}l and Ekenel, Haz{\i}m Kemal},
+  booktitle={The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+  year={2018}
+}
+```
 
+## Model Architecture
 
-<img src="figs/model.png" width="800">
+<img src="figs/model.png" width="600">
 
-# Prerequisites
+## Prerequisites
 
-* TensorFlow 1.4.1
+* TensorFlow 1.4.1 or later
 * Python 3
 * MATLAB 
 
 Our code is tested under Ubuntu 16.04 environment with Titan X GPUs.
 
-# Demo
+## Demo
 
 * Test the model for Track 1: Indoor
 
@@ -37,5 +45,10 @@ sh demo.sh data/outdoor results/outdoor models/Hazy2GT_outdoor.pb
 sh demo.sh input_folder output_folder model_name
 ```
 
-# License
+## License
 This project is licensed under the MIT License - see the <a href="https://github.com/engindeniz/Cycle-Dehaze/blob/master/LICENSE">LICENSE</a> file for details.
+
+## Acknowledgments
+
+The code is based on <a href="https://github.com/vanhuyz/CycleGAN-TensorFlow" target="_blank">CycleGAN-TensorFlow</a> implementation. 
+

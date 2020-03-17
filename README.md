@@ -2,7 +2,7 @@
 
 This reposotory is our project for <a href="http://www.vision.ee.ethz.ch/ntire18/" target="_blank">NTIRE 2018 Challenge on Image Dehazing</a>. 
 
-<a href="https://arxiv.org/abs/1805.05308" target="_blank">Our paper</a> will be published in CVPR 2018 Workshop <a href="http://www.vision.ee.ethz.ch/ntire18/" target="_blank">(3rd NTIRE)</a>. Please cite our paper, if it is helpful for your research.
+<a href="https://arxiv.org/abs/1805.05308" target="_blank">Our paper</a> published in CVPR 2018 Workshop <a href="http://www.vision.ee.ethz.ch/ntire18/" target="_blank">(3rd NTIRE)</a>. Please cite our paper, if it is helpful for your research.
 
 ```sh
 @inproceedings{engin2018cycle,
